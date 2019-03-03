@@ -17,6 +17,6 @@ class Dog
   end
   
   def breed   
-    puts Mutt
+    puts "Mutt"
   end
 end  
