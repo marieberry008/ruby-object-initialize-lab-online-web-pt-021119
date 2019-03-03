@@ -6,8 +6,7 @@ class Dog
 
 fido = Dog.new("Fido", "Mutt")
 
-fido = Dog.new("Fido")
-#Its attribute of its breed "Collie" will now be passed into .initialize(breed) as the breed argument. 
-fido.breed #=> "Collie"
+fido = Dog.new("Mutt")
+fido.breed
   
 end
