@@ -16,10 +16,6 @@ class Dog
     @name
   end
   
-  def breed
-    @breed
-  end
-  
   def breed   
     puts Mutt
   end
