@@ -4,8 +4,6 @@ class Dog
     @breed = breed
   end
 
-fido = Dog.new("Fido", "Mutt")
-
 fido = Dog.new("Mutt")
 fido.breed
   
